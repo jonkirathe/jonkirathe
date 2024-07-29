@@ -1,9 +1,7 @@
 
 <div id="header" align="center">
   <h1>Hi there 👋 I am John Kirathe seasoned Software Engineer</h1>
-  <h1>
-  <img src="https://komarev.com/ghpvc/?username=Jonnykratz" width="30px"/>
-</h1>
+  <h1> <img src="https://komarev.com/ghpvc/?username=Jonnykratz" /></h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRsOHFoenJlZTYybDYwbGliZjU2eG1xMjhpeXViMnBxN3cyeHRlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kF6XLAE5EUAT4Df94n/giphy.gif" width="100"/>
 
   <div>
