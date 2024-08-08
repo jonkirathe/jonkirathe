@@ -23,7 +23,7 @@
      <li>- 👯 I’m looking to collaborate on Web Apps(SPA) and backend</li>
      <li>- 🤔 I’m looking for help with AI</li>
      <li>- 💬 Ask me about Single Page Apps</li>
-     <li>- 📫 How to reach me: ⚡kirathendegwa@gmail.com</li>
+     <li>- 📫 How to reach me: ⚡ [kirathendegwa@gmail.com]</li>
    </ul>
   </div>
 ---
