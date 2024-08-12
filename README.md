@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <h1> <img src="https://komarev.com/ghpvc/?username=Jonnykratz" /></h1>
-   Website: <a href="https://johnkirathe.vercel.app/">https://johnkirathe.vercel.app/</a>
+<!--    Website: <a href="https://johnkirathe.vercel.app/">https://johnkirathe.vercel.app/</a> -->
 </div> 
 </div>
 
